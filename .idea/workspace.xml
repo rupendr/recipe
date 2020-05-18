@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dacc9df-1861-46ae-b718-bbfebfba988b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/recipe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +81,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="125" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589792520819">
+      <screen x="46" y="27" width="1234" height="693" />
+    </state>
+    <state x="125" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.27.1234.693/1280.0.1366.768@46.27.1234.693" timestamp="1589792520819" />
     <state x="370" y="176" width="581" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589784389716">
       <screen x="46" y="27" width="1234" height="693" />
     </state>
